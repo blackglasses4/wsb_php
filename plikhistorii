@@ -1,0 +1,10 @@
+    1  git clone https://github.com/blackglasses4/wsb_php.git
+    2  history > plikhistoria
+    3  ls 
+    4  git status
+    5  cd wsb_php
+    6  git add *
+    7  git status
+    8  ls
+    9  historia > plikhistorii
+   10  history > plikhistorii
